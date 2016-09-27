@@ -1,2 +1,2 @@
-# mse231-workshop
-R and Python introduction material for MS&amp;E 231
+# MS&E 231 tutorial
+Material for introduction to `R` and `python` tutorial offered as part of MS&E 231.
