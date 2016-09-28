@@ -42,5 +42,5 @@ class OnlineBookReader(BookReader):
             f.write(text)
         BookReader.__init__(self, filename)
 
-obr = OnlineBookReader('https://db.tt/vTn9ORtc')
+obr = OnlineBookReader('https://goo.gl/fHIeOi')
 online_word_count = obr.count_words()  # assign the dictionary to word_count
