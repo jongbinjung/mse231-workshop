@@ -1,5 +1,5 @@
 # Introduction to Python
-A brief introduction to `python` in three sections:
+A brief introduction to `python` in four sections:
 
 1. `python` scripting in the interpreter
 1. `python` development
