@@ -1,5 +1,5 @@
 ---
-title: "Session 3 - Visualization"
+title: "`R` crash course - Visualization"
 author: "Jongbin Jung"
 date: "October 2, 2016"
 output: 

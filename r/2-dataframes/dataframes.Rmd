@@ -1,5 +1,5 @@
 ---
-title: "Session 2 - Data frames"
+title: "`R` crash course - Data frames"
 author: "Jongbin Jung"
 date: "October 2, 2016"
 output:
